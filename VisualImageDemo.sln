@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualImageDemo", "VisualImageDemo.csproj", "{C268CBDE-8CE7-46A6-A453-4DED9C8A0F5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualImageDemo", "VisualImageDemo\VisualImageDemo.csproj", "{C268CBDE-8CE7-46A6-A453-4DED9C8A0F5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualBrushDemo", "..\VisualBrushDemo\VisualBrushDemo.csproj", "{BB456CA1-EC54-4395-9AD4-1E4E58FD385C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualBrushDemo", "VisualBrushDemo\VisualBrushDemo.csproj", "{BB456CA1-EC54-4395-9AD4-1E4E58FD385C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
